@@ -95,26 +95,5 @@ int main() {
         }
     }
 
-    /*
-            for (i = 959; i >= 0; i--) {
-                if ((color[i] & 0x0F) == sand_color && screen[i] ==
-       block_char) { if (screen[i + 40] != block_char) { screen[i + 40] =
-       block_char; color[i + 40] = sand_color; screen[i] = empty_char;
-                        color[i] = 0;
-                    } else if (screen[i + 39] != block_char) {
-                        screen[i + 39] = block_char;
-                        color[i + 39] = sand_color;
-                        screen[i] = empty_char;
-                        color[i] = 0;
-                    } else if (screen[i + 41] != block_char) {
-                        screen[i + 41] = block_char;
-                        color[i + 41] = sand_color;
-                        screen[i] = empty_char;
-                        color[i] = 0;
-                    }
-                }
-            }
-            */
-
     return 0;
 }
