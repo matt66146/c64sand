@@ -3,5 +3,5 @@
 - place blocks with joystick by moving cursor around and pressing fire
 
 ## Contributors
-<!-- readme: collaborators,contributors,bots/- -start -->
-<!-- readme: collaborators,contributors,bots/- -end -->
+<!-- readme: contributors,matt66146,github-actions[bot]/- -start -->
+<!-- readme: contributors,matt66146,github-actions[bot]/- -end -->
